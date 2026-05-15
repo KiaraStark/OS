@@ -7,8 +7,17 @@ MODULE_AUTHOR("Kiara Stark");
 MODULE_DESCRIPTION("A simple Linux kernel module.");
 MODULE_VERSION("1.0");
 
+static char *whom = "Kiara Stark";
+module_param(whom, charp, S_IRUGO);
+
+static int num = 1;
+module_param(num, int, S_IRUGO);
+
 static int kiara_module_int(void){
-    printk(KERN_ALERT "Hello!\n");
+    int i;
+    for(i=0;i<num;i++){
+        printk(KERN_ALERT "Hello!My name is%s\n",whom);
+    }
     return 0;
 }
 
