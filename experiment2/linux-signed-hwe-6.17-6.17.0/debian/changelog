@@ -1,0 +1,100 @@
+linux-signed-hwe-6.17 (6.17.0-35.35~24.04.1) noble; urgency=medium
+
+  * Main version: 6.17.0-35.35~24.04.1
+
+ -- Edoardo Canepa <edoardo.canepa@canonical.com>  Tue, 26 May 2026 19:56:51 +0200
+
+linux-signed-hwe-6.17 (6.17.0-29.29~24.04.1) noble; urgency=medium
+
+  * Main version: 6.17.0-29.29~24.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] debian/tracking-bug -- resync from main package
+
+ -- Manuel Diewald <manuel.diewald@canonical.com>  Wed, 06 May 2026 15:58:12 +0200
+
+linux-signed-hwe-6.17 (6.17.0-28.28~24.04.1) noble; urgency=medium
+
+  * Main version: 6.17.0-28.28~24.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] debian/tracking-bug -- resync from main package
+
+ -- Stefan Bader <stefan.bader@canonical.com>  Fri, 24 Apr 2026 15:12:50 +0200
+
+linux-signed-hwe-6.17 (6.17.0-24.24~24.04.1) noble; urgency=medium
+
+  * Main version: 6.17.0-24.24~24.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] update variants
+    - [Packaging] debian/tracking-bug -- resync from main package
+
+ -- Stefan Bader <stefan.bader@canonical.com>  Thu, 16 Apr 2026 16:34:09 +0200
+
+linux-signed-hwe-6.17 (6.17.0-23.23~24.04.1) noble; urgency=medium
+
+  * Main version: 6.17.0-23.23~24.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] debian/tracking-bug -- resync from main package
+
+ -- Stefan Bader <stefan.bader@canonical.com>  Tue, 14 Apr 2026 16:41:52 +0200
+
+linux-signed-hwe-6.17 (6.17.0-22.22~24.04.1) noble; urgency=medium
+
+  * Main version: 6.17.0-22.22~24.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] debian/tracking-bug -- resync from main package
+
+ -- Edoardo Canepa <edoardo.canepa@canonical.com>  Wed, 25 Mar 2026 20:06:52 +0100
+
+linux-signed-hwe-6.17 (6.17.0-20.20~24.04.1) noble; urgency=medium
+
+  * Main version: 6.17.0-20.20~24.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] debian/tracking-bug -- resync from main package
+
+ -- Mehmet Basaran <mehmet.basaran@canonical.com>  Wed, 18 Mar 2026 23:02:56 +0300
+
+linux-signed-hwe-6.17 (6.17.0-16.16~24.04.1) noble; urgency=medium
+
+  * Main version: 6.17.0-16.16~24.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] debian/tracking-bug -- resync from main package
+
+ -- Mehmet Basaran <mehmet.basaran@canonical.com>  Fri, 13 Feb 2026 02:43:07 +0300
+
+linux-signed-hwe-6.17 (6.17.0-14.14~24.04.1) noble; urgency=medium
+
+  * Main version: 6.17.0-14.14~24.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] update variants
+    - [Packaging] debian/tracking-bug -- resync from main package
+
+ -- Stefan Bader <stefan.bader@canonical.com>  Thu, 15 Jan 2026 15:20:59 +0100
+
+linux-signed-hwe-6.17 (6.17.0-7.7~24.04.1) noble; urgency=medium
+
+  * Main version: 6.17.0-7.7~24.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] debian/tracking-bug -- resync from main package
+
+ -- Stefan Bader <stefan.bader@canonical.com>  Mon, 27 Oct 2025 16:23:39 +0100
+
+linux-signed-hwe-6.17 (6.17.0-6.6~24.04.2) noble; urgency=medium
+
+  * Main version: 6.17.0-6.6~24.04.2
+
+ -- Stefan Bader <stefan.bader@canonical.com>  Fri, 24 Oct 2025 14:21:19 +0200
+
+linux-signed-hwe-6.17 (6.17.0-6.6~24.04.1) noble; urgency=medium
+
+  * Start noble:linux-hwe-6.17 packaging
+
+ -- Stefan Bader <stefan.bader@canonical.com>  Thu, 16 Oct 2025 17:46:12 +0200

@@ -1,0 +1,1 @@
+savedcmd_os_module.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T /home/kiara/code/os_experiment/experiment2/linux-hwe-6.17-6.17.0/scripts/module.lds -o os_module.ko os_module.o os_module.mod.o .module-common.o

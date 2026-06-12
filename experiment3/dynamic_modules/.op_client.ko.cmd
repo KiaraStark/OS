@@ -1,0 +1,1 @@
+savedcmd_op_client.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T /home/kiara/code/os_experiment/experiment2/linux-hwe-6.17-6.17.0/scripts/module.lds -o op_client.ko op_client.o op_client.mod.o .module-common.o

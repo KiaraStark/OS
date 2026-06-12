@@ -1,0 +1,41 @@
+{
+  "linux-generate-hwe-6.17": {
+    "files": [
+      {
+        "arch": "amd64",
+        "file": "/boot/kernel.efi-6.17.0-35-generic",
+        "sig_type": "efi"
+      },
+      {
+        "arch": "amd64",
+        "file": "/boot/vmlinuz-6.17.0-35-generic",
+        "sig_type": "efi"
+      },
+      {
+        "arch": "arm64",
+        "file": "/boot/kernel.efi-6.17.0-35-generic",
+        "sig_type": "efi"
+      },
+      {
+        "arch": "arm64",
+        "file": "/boot/vmlinuz-6.17.0-35-generic",
+        "sig_type": "efi"
+      },
+      {
+        "arch": "arm64",
+        "file": "/boot/kernel.efi-6.17.0-35-generic-64k",
+        "sig_type": "efi"
+      },
+      {
+        "arch": "arm64",
+        "file": "/boot/vmlinuz-6.17.0-35-generic-64k",
+        "sig_type": "efi"
+      },
+      {
+        "arch": "s390x",
+        "file": "/boot/vmlinuz-6.17.0-35-generic",
+        "sig_type": "sipl"
+      }
+    ]
+  }
+}

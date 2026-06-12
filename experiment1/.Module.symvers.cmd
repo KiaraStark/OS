@@ -1,0 +1,1 @@
+savedcmd_Module.symvers :=  /home/kiara/code/os_experiment/experiment2/linux-hwe-6.17-6.17.0/scripts/mod/modpost -M -m -b -x -a      -o Module.symvers -T modules.order -i /home/kiara/code/os_experiment/experiment2/linux-hwe-6.17-6.17.0/Module.symvers -e 
